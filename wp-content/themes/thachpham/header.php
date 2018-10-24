@@ -10,6 +10,7 @@
     <div id="container">
         <div class="logo">
             <?php thachpham_header(); ?>
+            <h1>Test</h1>
             <?php thachpham_menu('thachpham_menu'); ?>
         </div>
     
